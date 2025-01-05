@@ -1,6 +1,8 @@
 # About
 This is a homebrew game for 1980's era Atari 8-bit XL/XE (NTSC/PAL) computers.
 
+![Quadbination-Screenshot](https://github.com/user-attachments/assets/3e90033c-ef91-45ff-9ff0-7bb33e5ddf62)
+
 # Credits
 cc65
 Atari FontMaker
