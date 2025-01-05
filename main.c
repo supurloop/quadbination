@@ -1052,7 +1052,7 @@ void main(void)
     NEW_COMBO();
 
 /* Enable all players to stress test */
-#if 1
+#if 0
     CSPRITE_ENABLED(P1) = 1;
     CSPRITE_ENABLED(P2) = 1;
     CSPRITE_ENABLED(P3) = 1;
