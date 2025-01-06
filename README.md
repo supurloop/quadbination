@@ -71,6 +71,6 @@ The team starts with 9000 points.</br>
 For each second during countdown, lose 75 points.</br>
 When the game ends, for each second remaining up to 99, gain 75 points.
 
-Minimum team score 0.
-Maximum team score 9900.
+Minimum team score 0.</br>
+Maximum team score 9900.</br>
 High team score is tracked.
