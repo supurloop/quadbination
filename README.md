@@ -26,14 +26,15 @@ Single and/or Double Paddles in Port 1 and/or Port 2
 
 ## Selecting Players
 Briefly press the paddle button to enable a player.</br>
-Each player is assigned a unique color.
+Each player is assigned a unique color.</br>
 To deactivate a player restart Quadbination.
 
 ## Practice Mode
 A game has not started if the timer is not counting down, during this time players can practice matching.
 
 ## Starting Game
-Press and hold down any paddle button for 3 seconds to start a 2 minute game. The timer will start counting down and game music plays.
+Press and hold down any paddle button for 3 seconds to start a 2 minute game.</br>
+The timer will start counting down and game music plays.
 
 ## Gameplay
 Each colored player is randomly assigned a combination digit, a hexadecimal value from 0 to F.</br>
